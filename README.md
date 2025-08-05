@@ -5,9 +5,9 @@ Project Objectives:-
 
 Analyze employee demographics, job roles, and performance indicators
 
-Identify trends in attrition, satisfaction, and compensation
+Identify trends like overtime v/s attrition, attrition by age group etc.
 
-Visualize key metrics such as turnover rate, training hours, and promotion history
+Visualize key metrics such as Attrition rate, Average monthly income, satisfaction score etc.
 
 Enable HR teams to monitor organizational health and employee engagement
 
